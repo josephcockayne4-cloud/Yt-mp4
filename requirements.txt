@@ -1,0 +1,3 @@
+mcp[cli]
+yt-dlp
+starlette
